@@ -48,7 +48,7 @@ Sou estudante de Engenharia de Software no 2º ano, apaixonado por tecnologia e 
   <img src="https://skillicons.dev/icons?i=flutter" height="48" alt="Flutter" />
   <!-- Android and PlatformIO use manual icons due to skillicons blank output -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="48" alt="Android" />
-  <img src="https://cdn.jsdelivr.net/gh/platformio/platformio-core@develop/docs/_static/platformio-logo.svg" height="48" alt="PlatformIO" />
+  <img src="https://skillicons.dev/icons?i=platformio" height="48" alt="platformio logo"  />
 
   <!-- Web: Markup & Style -->
   <img src="https://skillicons.dev/icons?i=html" height="48" alt="HTML" />
