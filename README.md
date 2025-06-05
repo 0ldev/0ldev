@@ -31,6 +31,7 @@ Sou estudante de Engenharia de Software no 2º ano, apaixonado por tecnologia e 
 ### 🚀 Tech Stack
 
 <div align="center">
+
   <!-- Programming Languages -->
   <img src="https://skillicons.dev/icons?i=go" height="48" alt="Go" />
   <img src="https://skillicons.dev/icons?i=rust" height="48" alt="Rust" />
@@ -41,35 +42,32 @@ Sou estudante de Engenharia de Software no 2º ano, apaixonado por tecnologia e 
   <img src="https://skillicons.dev/icons?i=dart" height="48" alt="Dart" />
   <img src="https://skillicons.dev/icons?i=kotlin" height="48" alt="Kotlin" />
 
-  <!-- Web Frontend Frameworks -->
-  <br>
+  <!-- Web & Mobile Frameworks -->
   <img src="https://skillicons.dev/icons?i=react" height="48" alt="React" />
   <img src="https://skillicons.dev/icons?i=vue" height="48" alt="Vue.js" />
   <img src="https://skillicons.dev/icons?i=flutter" height="48" alt="Flutter" />
+  <!-- Android and PlatformIO use manual icons due to skillicons blank output -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="48" alt="Android" />
+  <img src="https://cdn.jsdelivr.net/gh/platformio/platformio-core@develop/docs/_static/platformio-logo.svg" height="48" alt="PlatformIO" />
+
+  <!-- Web: Markup & Style -->
   <img src="https://skillicons.dev/icons?i=html" height="48" alt="HTML" />
   <img src="https://skillicons.dev/icons?i=css" height="48" alt="CSS" />
 
-  <!-- Backend Frameworks -->
-  <br>
+  <!-- Backend & API -->
   <img src="https://skillicons.dev/icons?i=nodejs" height="48" alt="Node.js" />
   <img src="https://skillicons.dev/icons?i=flask" height="48" alt="Flask" />
   <img src="https://skillicons.dev/icons?i=django" height="48" alt="Django" />
 
   <!-- Database -->
-  <br>
   <img src="https://skillicons.dev/icons?i=mysql" height="48" alt="MySQL" />
   <img src="https://skillicons.dev/icons?i=postgres" height="48" alt="PostgreSQL" />
 
   <!-- DevOps & Tools -->
-  <br>
   <img src="https://skillicons.dev/icons?i=docker" height="48" alt="Docker" />
   <img src="https://skillicons.dev/icons?i=linux" height="48" alt="Linux" />
-  <img src="https://skillicons.dev/icons?i=platformio" height="48" alt="PlatformIO" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="48" alt="Arduino" />
 
-  <!-- Mobile & Embedded -->
-  <br>
-  <img src="https://skillicons.dev/icons?i=android" height="48" alt="Android" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="48" alt="Arduino" />
 </div>
 
 ---
