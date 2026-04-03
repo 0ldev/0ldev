@@ -35,7 +35,7 @@ Estudante de Engenharia de Software no 5º semestre e desenvolvedor fullstack na
 
   <!-- Web & Mobile Frameworks -->
   <img src="https://skillicons.dev/icons?i=react" height="48" alt="React" />
-  <img src="https://skillicons.dev/icons?i=reactnative" height="48" alt="React Native" />
+
   <img src="https://skillicons.dev/icons?i=vue" height="48" alt="Vue.js" />
   <img src="https://skillicons.dev/icons?i=flutter" height="48" alt="Flutter" />
   <!-- Android and PlatformIO use manual icons due to skillicons blank output -->
