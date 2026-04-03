@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
+<h1 align="center">Hey, I'm Albert 👋</h1>
 
 <p align="center">
   <b>🇺🇸 English | 🇧🇷 Português Brasileiro</b>
@@ -6,25 +6,15 @@
 
 ---
 
-### 🇺🇸 About Me
+### About Me
 
-Hi, I'm **Albert**!  
-I'm a passionate software engineering student with 2 years of experience, always eager to build, break, and rebuild things to learn more. I love exploring new technologies and working on creative projects — from web to embedded systems.
-
-- 🎓 2nd year Software Engineering student
-- 🛠️ Always coding, always learning
-- 💡 Interested in full-stack, backend, DevOps, and embedded development
+Software Engineering student in my 5th semester and fullstack developer at **Avanade**. I build things across the stack — web, mobile, backend, and embedded systems.
 
 ---
 
-### 🇧🇷 Sobre Mim
+### Sobre Mim
 
-Olá, eu sou o **Albert**!  
-Sou estudante de Engenharia de Software no 2º ano, apaixonado por tecnologia e por transformar ideias em código. Gosto de aprender novas ferramentas, construir projetos criativos — do web ao embarcado.
-
-- 🎓 2º ano de Engenharia de Software
-- 🛠️ Sempre programando, sempre aprendendo
-- 💡 Interesses: desenvolvimento full-stack, backend, DevOps e sistemas embarcados
+Estudante de Engenharia de Software no 5º semestre e desenvolvedor fullstack na **Avanade**. Construo soluções em toda a stack — web, mobile, backend e sistemas embarcados.
 
 ---
 
@@ -35,6 +25,7 @@ Sou estudante de Engenharia de Software no 2º ano, apaixonado por tecnologia e 
   <!-- Programming Languages -->
   <img src="https://skillicons.dev/icons?i=go" height="48" alt="Go" />
   <img src="https://skillicons.dev/icons?i=rust" height="48" alt="Rust" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="48" alt="C++" />
   <img src="https://skillicons.dev/icons?i=py" height="48" alt="Python" />
   <img src="https://skillicons.dev/icons?i=java" height="48" alt="Java" />
   <img src="https://skillicons.dev/icons?i=js" height="48" alt="JavaScript" />
@@ -44,6 +35,7 @@ Sou estudante de Engenharia de Software no 2º ano, apaixonado por tecnologia e 
 
   <!-- Web & Mobile Frameworks -->
   <img src="https://skillicons.dev/icons?i=react" height="48" alt="React" />
+  <img src="https://skillicons.dev/icons?i=reactnative" height="48" alt="React Native" />
   <img src="https://skillicons.dev/icons?i=vue" height="48" alt="Vue.js" />
   <img src="https://skillicons.dev/icons?i=flutter" height="48" alt="Flutter" />
   <!-- Android and PlatformIO use manual icons due to skillicons blank output -->
@@ -77,6 +69,10 @@ Sou estudante de Engenharia de Software no 2º ano, apaixonado por tecnologia e 
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn"/>
   </a>
 </div>
+
+<p align="center">
+  Open to collaboration — <a href="https://docs.google.com/forms/d/e/1FAIpQLSfE_aK2pLPGC6rHIDQB4tj6X4jM55_HxpMWypjEsJeIFzItDw/viewform?usp=sharing&ouid=110511311951887343578">get in touch</a>
+</p>
 
 ---
 
