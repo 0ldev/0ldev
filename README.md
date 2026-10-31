@@ -1,24 +1,10 @@
-<h1 align="center">Hey, I'm Albert 👋</h1>
-
-<p align="center">
-  <b>🇺🇸 English | 🇧🇷 Português Brasileiro</b>
-</p>
-
----
-
 ### About Me
 
-Software Engineering student in my 5th semester and fullstack developer at **Avanade**. I build things across the stack — web, mobile, backend, and embedded systems.
+I am a researcher and a firm believer in the open-source movement. Beyond writing code, I spend much of my time researching emerging technologies and architecting self-hosted infrastructure. In my spare time, I enjoy 3D printing and home automation.
 
 ---
 
-### Sobre Mim
-
-Estudante de Engenharia de Software no 5º semestre e desenvolvedor fullstack na **Avanade**. Construo soluções em toda a stack — web, mobile, backend e sistemas embarcados.
-
----
-
-### 🚀 Tech Stack
+### Tech Stack
 
 <div align="center">
 
@@ -35,12 +21,10 @@ Estudante de Engenharia de Software no 5º semestre e desenvolvedor fullstack na
 
   <!-- Web & Mobile Frameworks -->
   <img src="https://skillicons.dev/icons?i=react" height="48" alt="React" />
-
   <img src="https://skillicons.dev/icons?i=vue" height="48" alt="Vue.js" />
   <img src="https://skillicons.dev/icons?i=flutter" height="48" alt="Flutter" />
-  <!-- Android and PlatformIO use manual icons due to skillicons blank output -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="48" alt="Android" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/PlatformIO_logo.svg/1200px-PlatformIO_logo.svg.png?20220205132823" height="48" alt="PlatformIO logo" />
+  <img src="https://skillicons.dev/icons?i=platformio" height="48" alt="PlatformIO" />
 
   <!-- Web: Markup & Style -->
   <img src="https://skillicons.dev/icons?i=html" height="48" alt="HTML" />
@@ -69,10 +53,6 @@ Estudante de Engenharia de Software no 5º semestre e desenvolvedor fullstack na
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn"/>
   </a>
 </div>
-
-<p align="center">
-  Open to collaboration — <a href="https://docs.google.com/forms/d/e/1FAIpQLSfE_aK2pLPGC6rHIDQB4tj6X4jM55_HxpMWypjEsJeIFzItDw/viewform?usp=sharing&ouid=110511311951887343578">get in touch</a>
-</p>
 
 ---
 
