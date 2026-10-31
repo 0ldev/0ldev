@@ -24,7 +24,7 @@ I am a researcher and a firm believer in the open-source movement. Beyond writin
   <img src="https://skillicons.dev/icons?i=vue" height="48" alt="Vue.js" />
   <img src="https://skillicons.dev/icons?i=flutter" height="48" alt="Flutter" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="48" alt="Android" />
-  <img src="https://skillicons.dev/icons?i=platformio" height="48" alt="PlatformIO" />
+  <img src="https://cdn.simpleicons.org/platformio/F5822A" height="48" alt="PlatformIO" />
 
   <!-- Web: Markup & Style -->
   <img src="https://skillicons.dev/icons?i=html" height="48" alt="HTML" />
